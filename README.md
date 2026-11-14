@@ -1,6 +1,6 @@
-# HamReg · ทะเบียนสมาชิกนักวิทยุสมัครเล่น
+# Amateur Radio Member Registry · ทะเบียนสมาชิกนักวิทยุสมัครเล่น
 
-**HamReg** (Amateur Radio Member Registry) เว็บแอพไฟล์เดียว (`index.html`) สำหรับจัดเก็บข้อมูลสมาชิกนักวิทยุสมัครเล่น ไม่ต้องติดตั้งหรือมีเซิร์ฟเวอร์ ไม่ต้องใช้ API key และไม่มีค่าใช้จ่าย วางบน GitHub Pages ได้ทันที
+เว็บแอพไฟล์เดียว (`index.html`) สำหรับจัดเก็บข้อมูลสมาชิกนักวิทยุสมัครเล่น ไม่ต้องติดตั้งหรือมีเซิร์ฟเวอร์ ไม่ต้องใช้ API key และไม่มีค่าใช้จ่าย วางบน GitHub Pages ได้ทันที
 
 ## ทำอะไรได้
 
@@ -32,7 +32,7 @@
 
 ## วางบน GitHub Pages
 
-1. สร้าง repository ใหม่บน GitHub (แนะนำชื่อ `hamreg`)
+1. สร้าง repository ใหม่บน GitHub (แนะนำชื่อ `amateur-radio-member-registry`)
 2. อัปโหลดไฟล์ `index.html` และ `README.md` (ปุ่ม **Add file → Upload files**)
 3. ไปที่ **Settings → Pages**
 4. ตรง **Build and deployment** เลือก **Deploy from a branch** แล้วเลือก branch `main` โฟลเดอร์ `/ (root)` กด **Save**
